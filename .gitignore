@@ -1,0 +1,68 @@
+/node_modules
+
+/Factura- maquetacion-web-messi.pdf
+
+\¡Claro! Aquí tienes una lista de algunos comandos y propiedades CSS que puedes usar para manipular imágenes en tu sitio web:
+
+1. **Tamaño de la imagen**:
+   - `width`: Establece el ancho de la imagen.
+   - `height`: Establece la altura de la imagen.
+
+2. **Alineación de la imagen**:
+   - `float`: Permite que la imagen flote a la izquierda o a la derecha del texto circundante.
+   - `text-align`: Alinea la imagen horizontalmente en relación con su contenedor.
+
+3. **Margen y relleno**:
+   - `margin`: Define los márgenes alrededor de la imagen.
+   - `padding`: Agrega relleno alrededor de la imagen dentro de su contenedor.
+
+4. **Bordes**:
+   - `border`: Define un borde alrededor de la imagen.
+   - `border-radius`: Agrega esquinas redondeadas a la imagen.
+
+5. **Fondo**:
+   - `background-image`: Establece una imagen de fondo para el contenedor de la imagen.
+
+6. **Posicionamiento**:
+   - `position`: Controla el posicionamiento de la imagen en su contenedor.
+   - `top`, `right`, `bottom`, `left`: Ajusta la posición de la imagen cuando se utiliza `position: absolute` o `position: fixed`.
+
+7. **Filtros**:
+   - `filter`: Aplica efectos de filtro a la imagen, como brillo, contraste, saturación, etc.
+
+8. **Transiciones y animaciones**:
+   - `transition`: Define cómo deben cambiar las propiedades de la imagen cuando ocurre una transición.
+   - `animation`: Crea animaciones personalizadas para la imagen.
+
+9. **Superposición**:
+   - `z-index`: Controla la superposición de elementos, lo que puede ser útil cuando se superponen imágenes.
+
+10. **Opacidad**:
+    - `opacity`: Controla la opacidad de la imagen.
+
+Por supuesto, aquí tienes algunos comandos y propiedades CSS relacionados con Flexbox, que te permiten crear diseños flexibles y controlados en tu sitio web:
+
+1. **Contenedor de Flexbox**:
+
+   - `display: flex;`: Crea un contenedor de flexbox.
+   - `flex-direction`: Establece la dirección en la que se distribuirán los elementos hijos (`row`, `column`, `row-reverse`, `column-reverse`).
+   - `justify-content`: Controla la alineación de los elementos a lo largo del eje principal (`flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `space-evenly`).
+   - `align-items`: Alinea los elementos a lo largo del eje transversal (`flex-start`, `flex-end`, `center`, `baseline`, `stretch`).
+   - `flex-wrap`: Define si los elementos pueden envolverse en múltiples líneas (`nowrap`, `wrap`, `wrap-reverse`).
+   - `align-content`: Controla cómo se distribuyen las líneas de elementos cuando hay espacio adicional en el eje transversal (`flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `stretch`).
+
+2. **Elementos Flex**:
+
+   - `flex`: Combina `flex-grow`, `flex-shrink`, y `flex-basis` en una sola propiedad.
+   - `flex-grow`: Controla la capacidad de un elemento para crecer en relación con otros elementos.
+   - `flex-shrink`: Controla la capacidad de un elemento para encogerse en relación con otros elementos.
+   - `flex-basis`: Establece el tamaño inicial de un elemento antes de distribuir el espacio adicional.
+   - `order`: Controla el orden en el que se muestran los elementos dentro del contenedor de flexbox.
+
+3. **Espaciado y Margen**:
+
+   - `margin`: Define el margen alrededor de un elemento flex.
+   - `padding`: Define el relleno dentro de un elemento flex.
+   - `align-self`: Anula la alineación transversal definida en el contenedor de flexbox para un elemento específico.
+ mm 
+ Estas propiedades y comandos te permiten crear diseños flexibles y responsivos con facilidad utilizando Flexbox en CSS. Puedes combinarlos y ajustar sus valores según tus necesidades específicas de diseño.

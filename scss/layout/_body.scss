@@ -1,0 +1,13 @@
+body {
+	background-color: $background-color_1;
+	color: $color_1;
+}
+
+aside{
+	grid-column: 2/3;
+	grid-row: 1/1;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	padding-top: 5px;
+}
